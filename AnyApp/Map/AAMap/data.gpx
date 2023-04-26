@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 0.12" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
+<metadata><copyright author="OpenStreetMap contributors"/><link href="http://graphhopper.com"><text>GraphHopper GPX</text></link><time>2023-04-12T16:27:46Z</time></metadata>
+<rte>
+<rtept lat="50.521089" lon="30.486226"><desc>continueTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>76.3</gh:distance><gh:time>15269</gh:time><gh:direction>N</gh:direction><gh:azimuth>0.65</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.521775" lon="30.486239"><desc>turn leftTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>127.3</gh:distance><gh:time>25467</gh:time><gh:direction>W</gh:direction><gh:azimuth>270.52</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.521786" lon="30.484439"><desc>turn right onto Богатирська вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>225.5</gh:distance><gh:time>45091</gh:time><gh:direction>N</gh:direction><gh:azimuth>0.97</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.523813" lon="30.484493"><desc>keep leftTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>911.3</gh:distance><gh:time>182249</gh:time><gh:direction>N</gh:direction><gh:azimuth>352.68</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="50.531985" lon="30.484341"><desc>continue onto Богатирська вулиця, Р-69TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>976.3</gh:distance><gh:time>195266</gh:time><gh:direction>N</gh:direction><gh:azimuth>4.12</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.540746" lon="30.485149"><desc>keep rightTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>366.6</gh:distance><gh:time>82549</gh:time><gh:direction>NE</gh:direction><gh:azimuth>24.01</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="50.543721" lon="30.485198"><desc>keep rightTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>141.4</gh:distance><gh:time>36351</gh:time><gh:direction>NE</gh:direction><gh:azimuth>26.44</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="50.54489" lon="30.485254"><desc>turn leftTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>32.2</gh:distance><gh:time>8286</gh:time><gh:direction>NW</gh:direction><gh:azimuth>296.46</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.545066" lon="30.484908"><desc>turn slight right onto Богатирська вулиця, Р-69TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>7.0</gh:distance><gh:time>1401</gh:time><gh:direction>N</gh:direction><gh:azimuth>348.85</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="50.545128" lon="30.484888"><desc>keep rightTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>314.8</gh:distance><gh:time>62963</gh:time><gh:direction>N</gh:direction><gh:azimuth>17.85</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="50.54791" lon="30.484821"><desc>continueTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>159.7</gh:distance><gh:time>31939</gh:time><gh:direction>N</gh:direction><gh:azimuth>356.35</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.548577" lon="30.486108"><desc>keep left onto 18-а Садова вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>326.1</gh:distance><gh:time>65229</gh:time><gh:direction>NE</gh:direction><gh:azimuth>65.32</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="50.551369" lon="30.486555"><desc>turn rightTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>97.4</gh:distance><gh:time>19477</gh:time><gh:direction>E</gh:direction><gh:azimuth>89.6</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.551376" lon="30.487933"><desc>turn left onto 16-а Садова вулицяTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>517.8</gh:distance><gh:time>103568</gh:time><gh:direction>N</gh:direction><gh:azimuth>5.67</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.5559" lon="30.487523"><desc>turn right onto 25-а Садова вулицяTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>4.9</gh:distance><gh:time>978</gh:time><gh:direction>E</gh:direction><gh:azimuth>76.28</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.555911" lon="30.48759"><desc>turn leftTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>133.4</gh:distance><gh:time>26682</gh:time><gh:direction>N</gh:direction><gh:azimuth>15.02</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.556989" lon="30.488216"><desc>turn left onto 2-а Садова вулицяTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>356.0</gh:distance><gh:time>71199</gh:time><gh:direction>N</gh:direction><gh:azimuth>18.47</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.55991" lon="30.49025"><desc>turn right onto Дніпровська вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>37.2</gh:distance><gh:time>7435</gh:time><gh:direction>SE</gh:direction><gh:azimuth>126.95</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.559709" lon="30.49067"><desc>keep leftTAGS{"highway":"path","surface":"other"}</desc><extensions><gh:distance>17.3</gh:distance><gh:time>5188</gh:time><gh:direction>SE</gh:direction><gh:azimuth>113.65</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="50.559647" lon="30.490895"><desc>turn sharp leftTAGS{"highway":"path","surface":"other"}</desc><extensions><gh:distance>338.1</gh:distance><gh:time>101426</gh:time><gh:direction>NW</gh:direction><gh:azimuth>327.44</gh:azimuth><gh:sign>-3</gh:sign></extensions></rtept>
+<rtept lat="50.562391" lon="30.48905"><desc>keep leftTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>36.3</gh:distance><gh:time>7260</gh:time><gh:direction>NW</gh:direction><gh:azimuth>292.66</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="50.562517" lon="30.488576"><desc>turn rightTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>841.3</gh:distance><gh:time>168256</gh:time><gh:direction>N</gh:direction><gh:azimuth>2.5</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.567718" lon="30.484953"><desc>turn left onto Р-69TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>64.7</gh:distance><gh:time>12947</gh:time><gh:direction>W</gh:direction><gh:azimuth>266.29</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.567681" lon="30.484043"><desc>turn rightTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>285.3</gh:distance><gh:time>57063</gh:time><gh:direction>N</gh:direction><gh:azimuth>350.54</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.569798" lon="30.485222"><desc>turn left onto Глібова вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>475.7</gh:distance><gh:time>110180</gh:time><gh:direction>NW</gh:direction><gh:azimuth>318.9</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.573115" lon="30.482343"><desc>turn left onto Піщана вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>479.9</gh:distance><gh:time>99985</gh:time><gh:direction>NW</gh:direction><gh:azimuth>294.74</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.575608" lon="30.476879"><desc>turn right onto Шкільна вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>359.4</gh:distance><gh:time>71884</gh:time><gh:direction>NE</gh:direction><gh:azimuth>44.19</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.57803" lon="30.480243"><desc>turn sharp left onto Київська вулицяTAGS{"highway":"street","surface":"paved"}</desc><extensions><gh:distance>26.1</gh:distance><gh:time>5229</gh:time><gh:direction>W</gh:direction><gh:azimuth>249.8</gh:azimuth><gh:sign>-3</gh:sign></extensions></rtept>
+<rtept lat="50.578001" lon="30.479887"><desc>keep right onto Київська вулицяTAGS{"highway":"street","surface":"paved"}</desc><extensions><gh:distance>143.6</gh:distance><gh:time>28721</gh:time><gh:direction>NW</gh:direction><gh:azimuth>307.79</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="50.578791" lon="30.47828"><desc>continue onto Київська вулицяTAGS{"highway":"street","surface":"paved"}</desc><extensions><gh:distance>214.4</gh:distance><gh:time>42881</gh:time><gh:direction>NW</gh:direction><gh:azimuth>304.96</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.580062" lon="30.47601"><desc>turn left onto Кургузова вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>172.5</gh:distance><gh:time>34496</gh:time><gh:direction>SW</gh:direction><gh:azimuth>224.66</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.578896" lon="30.474403"><desc>turn rightTAGS{"highway":"street","surface":"natural"}</desc><extensions><gh:distance>306.4</gh:distance><gh:time>101765</gh:time><gh:direction>NW</gh:direction><gh:azimuth>295.45</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.58088" lon="30.471498"><desc>keep leftTAGS{"highway":"street","surface":"unpaved"}</desc><extensions><gh:distance>59.3</gh:distance><gh:time>17787</gh:time><gh:direction>NW</gh:direction><gh:azimuth>317.61</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="50.581273" lon="30.470932"><desc>keep rightTAGS{"highway":"street","surface":"unpaved"}</desc><extensions><gh:distance>84.9</gh:distance><gh:time>25456</gh:time><gh:direction>N</gh:direction><gh:azimuth>338.66</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="50.581909" lon="30.470836"><desc>turn leftTAGS{"highway":"street","surface":"unpaved"}</desc><extensions><gh:distance>523.7</gh:distance><gh:time>184956</gh:time><gh:direction>N</gh:direction><gh:azimuth>339.17</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.585551" lon="30.466601"><desc>turn rightTAGS{"highway":"path","surface":"natural"}</desc><extensions><gh:distance>27.5</gh:distance><gh:time>24748</gh:time><gh:direction>NE</gh:direction><gh:azimuth>32.02</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.58576" lon="30.466807"><desc>turn slight rightTAGS{"highway":"street","surface":"natural"}</desc><extensions><gh:distance>27.4</gh:distance><gh:time>8229</gh:time><gh:direction>E</gh:direction><gh:azimuth>70.17</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="50.585872" lon="30.467151"><desc>turn leftTAGS{"highway":"street","surface":"natural"}</desc><extensions><gh:distance>354.7</gh:distance><gh:time>106401</gh:time><gh:direction>NW</gh:direction><gh:azimuth>328.52</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.588436" lon="30.464178"><desc>turn rightTAGS{"highway":"street","surface":"natural"}</desc><extensions><gh:distance>46.7</gh:distance><gh:time>14016</gh:time><gh:direction>NE</gh:direction><gh:azimuth>46.43</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.588725" lon="30.464657"><desc>turn leftTAGS{"highway":"street","surface":"natural"}</desc><extensions><gh:distance>66.9</gh:distance><gh:time>20061</gh:time><gh:direction>NW</gh:direction><gh:azimuth>320.47</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.589229" lon="30.46417"><desc>turn slight leftTAGS{"highway":"street","surface":"natural"}</desc><extensions><gh:distance>289.1</gh:distance><gh:time>62858</gh:time><gh:direction>NW</gh:direction><gh:azimuth>315.85</gh:azimuth><gh:sign>-1</gh:sign></extensions></rtept>
+<rtept lat="50.591185" lon="30.461571"><desc>turn sharp left onto Фруктова вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>48.3</gh:distance><gh:time>9662</gh:time><gh:direction>SW</gh:direction><gh:azimuth>238.34</gh:azimuth><gh:sign>-3</gh:sign></extensions></rtept>
+<rtept lat="50.59093" lon="30.461018"><desc>turn right onto Фруктова вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>667.5</gh:distance><gh:time>149344</gh:time><gh:direction>NW</gh:direction><gh:azimuth>327.58</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.595971" lon="30.457386"><desc>turn left onto Шолуденка вулицяTAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>27.5</gh:distance><gh:time>5499</gh:time><gh:direction>NW</gh:direction><gh:azimuth>292.97</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.596067" lon="30.457027"><desc>turn rightTAGS{"highway":"street","surface":"unpaved"}</desc><extensions><gh:distance>198.9</gh:distance><gh:time>59672</gh:time><gh:direction>N</gh:direction><gh:azimuth>21.8</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.59774" lon="30.457998"><desc>turn slight leftTAGS{"highway":"street","surface":"unpaved"}</desc><extensions><gh:distance>98.8</gh:distance><gh:time>29630</gh:time><gh:direction>N</gh:direction><gh:azimuth>339.74</gh:azimuth><gh:sign>-1</gh:sign></extensions></rtept>
+<rtept lat="50.598533" lon="30.457374"><desc>continue onto Покровська вулицяTAGS{"highway":"street","surface":"unpaved"}</desc><extensions><gh:distance>412.8</gh:distance><gh:time>109843</gh:time><gh:direction>NW</gh:direction><gh:azimuth>330.42</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.6019" lon="30.455948"><desc>turn leftTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>156.1</gh:distance><gh:time>31219</gh:time><gh:direction>NW</gh:direction><gh:azimuth>314.29</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.602919" lon="30.454538"><desc>turn leftTAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>127.0</gh:distance><gh:time>25404</gh:time><gh:direction>SW</gh:direction><gh:azimuth>245.32</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.602665" lon="30.452838"><desc>turn right onto Свято-Покровська вулиця, Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>449.7</gh:distance><gh:time>89948</gh:time><gh:direction>N</gh:direction><gh:azimuth>13.14</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.606597" lon="30.454328"><desc>turn left onto Ново-Київська вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>1154.2</gh:distance><gh:time>230841</gh:time><gh:direction>W</gh:direction><gh:azimuth>276.64</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.614571" lon="30.445053"><desc>keep left onto Ново-Київська вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>402.5</gh:distance><gh:time>80505</gh:time><gh:direction>NW</gh:direction><gh:azimuth>313.71</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="50.617839" lon="30.443387"><desc>turn left onto Бучанська вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>119.9</gh:distance><gh:time>23986</gh:time><gh:direction>W</gh:direction><gh:azimuth>273.72</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.617883" lon="30.441689"><desc>turn right onto Європейська вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>167.3</gh:distance><gh:time>33462</gh:time><gh:direction>N</gh:direction><gh:azimuth>338.14</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.619142" lon="30.440406"><desc>turn rightTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>234.8</gh:distance><gh:time>51096</gh:time><gh:direction>NE</gh:direction><gh:azimuth>38.41</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.621164" lon="30.440866"><desc>turn left onto Захисників України вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>66.2</gh:distance><gh:time>13241</gh:time><gh:direction>W</gh:direction><gh:azimuth>271.01</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.621252" lon="30.439945"><desc>turn slight right onto Захисників України вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>43.5</gh:distance><gh:time>8701</gh:time><gh:direction>NW</gh:direction><gh:azimuth>315.56</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="50.621531" lon="30.439513"><desc>turn right onto 1-го Травня вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>14.1</gh:distance><gh:time>2821</gh:time><gh:direction>NE</gh:direction><gh:azimuth>40.76</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.621627" lon="30.439644"><desc>turn slight left onto 1-го Травня вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>461.6</gh:distance><gh:time>92311</gh:time><gh:direction>N</gh:direction><gh:azimuth>0.9</gh:azimuth><gh:sign>-1</gh:sign></extensions></rtept>
+<rtept lat="50.625701" lon="30.438645"><desc>turn left onto Соборна вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>440.7</gh:distance><gh:time>88131</gh:time><gh:direction>W</gh:direction><gh:azimuth>248.09</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.626597" lon="30.432893"><desc>turn right onto Пушкіна вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>494.1</gh:distance><gh:time>98810</gh:time><gh:direction>N</gh:direction><gh:azimuth>17.93</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.629789" lon="30.437169"><desc>turn sharp left onto Родинна вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>644.3</gh:distance><gh:time>128859</gh:time><gh:direction>NW</gh:direction><gh:azimuth>319.93</gh:azimuth><gh:sign>-3</gh:sign></extensions></rtept>
+<rtept lat="50.634249" lon="30.4325"><desc>turn left onto Родинна вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>366.2</gh:distance><gh:time>73248</gh:time><gh:direction>NW</gh:direction><gh:azimuth>317.73</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.636722" lon="30.429075"><desc>turn rightTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>23.9</gh:distance><gh:time>4781</gh:time><gh:direction>N</gh:direction><gh:azimuth>21.84</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.636904" lon="30.429249"><desc>turn left onto Родинна вулицяTAGS{"highway":"street","surface":"unpaved"}</desc><extensions><gh:distance>248.8</gh:distance><gh:time>89577</gh:time><gh:direction>NW</gh:direction><gh:azimuth>323.11</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.638687" lon="30.427122"><desc>turn left onto Кримська вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>110.7</gh:distance><gh:time>22137</gh:time><gh:direction>SW</gh:direction><gh:azimuth>237.19</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.638148" lon="30.425803"><desc>turn right onto Промислова вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>393.3</gh:distance><gh:time>78660</gh:time><gh:direction>NW</gh:direction><gh:azimuth>323.54</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.641013" lon="30.422536"><desc>continueTAGS{"highway":"street","surface":"unpaved"}</desc><extensions><gh:distance>243.0</gh:distance><gh:time>62475</gh:time><gh:direction>NW</gh:direction><gh:azimuth>317.66</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.642617" lon="30.420291"><desc>turn slight left onto Гагаріна вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>1105.0</gh:distance><gh:time>220987</gh:time><gh:direction>NW</gh:direction><gh:azimuth>319.33</gh:azimuth><gh:sign>-1</gh:sign></extensions></rtept>
+<rtept lat="50.649315" lon="30.408964"><desc>turn right onto Дубрівська вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>135.6</gh:distance><gh:time>27124</gh:time><gh:direction>NE</gh:direction><gh:azimuth>36.85</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.650291" lon="30.410118"><desc>turn left onto Князя Святослава вулиця, Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>701.6</gh:distance><gh:time>140326</gh:time><gh:direction>NW</gh:direction><gh:azimuth>323.2</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.656123" lon="30.406673"><desc>turn leftTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>126.1</gh:distance><gh:time>25215</gh:time><gh:direction>SW</gh:direction><gh:azimuth>244.07</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.655613" lon="30.405079"><desc>turn right onto Грушевського вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>971.2</gh:distance><gh:time>194242</gh:time><gh:direction>NW</gh:direction><gh:azimuth>325.45</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.663592" lon="30.400464"><desc>turn rightTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>138.8</gh:distance><gh:time>27750</gh:time><gh:direction>E</gh:direction><gh:azimuth>74.32</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.663929" lon="30.402359"><desc>turn left onto Князя Святослава вулиця, Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>425.7</gh:distance><gh:time>85141</gh:time><gh:direction>NW</gh:direction><gh:azimuth>336.66</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.667487" lon="30.400171"><desc>turn leftTAGS{"highway":"path","surface":"unpaved"}</desc><extensions><gh:distance>41.5</gh:distance><gh:time>10668</gh:time><gh:direction>W</gh:direction><gh:azimuth>264.8</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.667538" lon="30.399602"><desc>turn rightTAGS{"highway":"path","surface":"unpaved"}</desc><extensions><gh:distance>120.6</gh:distance><gh:time>31018</gh:time><gh:direction>N</gh:direction><gh:azimuth>342.41</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.668572" lon="30.399085"><desc>continueTAGS{"highway":"path","surface":"unpaved"}</desc><extensions><gh:distance>377.3</gh:distance><gh:time>97028</gh:time><gh:direction>N</gh:direction><gh:azimuth>342.41</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.671811" lon="30.397498"><desc>turn leftTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>860.1</gh:distance><gh:time>172025</gh:time><gh:direction>W</gh:direction><gh:azimuth>262.68</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.671" lon="30.385576"><desc>turn right onto Вітряного вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>873.5</gh:distance><gh:time>174687</gh:time><gh:direction>NE</gh:direction><gh:azimuth>25.18</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.678262" lon="30.389919"><desc>turn left onto Миру вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>1045.6</gh:distance><gh:time>214488</gh:time><gh:direction>NW</gh:direction><gh:azimuth>326.21</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.686879" lon="30.384073"><desc>turn rightTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>62.6</gh:distance><gh:time>12513</gh:time><gh:direction>E</gh:direction><gh:azimuth>72.26</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.68708" lon="30.384902"><desc>turn leftTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>304.9</gh:distance><gh:time>60986</gh:time><gh:direction>N</gh:direction><gh:azimuth>356.0</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.689815" lon="30.3846"><desc>turn rightTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>165.9</gh:distance><gh:time>33186</gh:time><gh:direction>E</gh:direction><gh:azimuth>86.38</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.689947" lon="30.386938"><desc>turn leftTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>148.5</gh:distance><gh:time>29707</gh:time><gh:direction>N</gh:direction><gh:azimuth>338.85</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.69118" lon="30.386163"><desc>turn leftTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>26.6</gh:distance><gh:time>5324</gh:time><gh:direction>W</gh:direction><gh:azimuth>274.74</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.691178" lon="30.385787"><desc>turn rightTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>451.7</gh:distance><gh:time>90341</gh:time><gh:direction>NW</gh:direction><gh:azimuth>324.9</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.69463" lon="30.382411"><desc>keep rightTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>190.7</gh:distance><gh:time>38137</gh:time><gh:direction>N</gh:direction><gh:azimuth>353.05</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="50.696251" lon="30.382526"><desc>turn right onto Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>9.1</gh:distance><gh:time>1824</gh:time><gh:direction>SE</gh:direction><gh:azimuth>147.51</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.696182" lon="30.382596"><desc>turn left onto О-100808TAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>252.6</gh:distance><gh:time>50522</gh:time><gh:direction>E</gh:direction><gh:azimuth>68.78</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.696604" lon="30.386104"><desc>keep left onto О-100808TAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>5194.7</gh:distance><gh:time>1063802</gh:time><gh:direction>NE</gh:direction><gh:azimuth>49.25</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="50.741361" lon="30.369638"><desc>turn right onto О-100808TAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>1514.0</gh:distance><gh:time>302789</gh:time><gh:direction>N</gh:direction><gh:azimuth>348.32</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.754662" lon="30.365056"><desc>turn left onto Соборна вулиця, О-100808TAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>125.2</gh:distance><gh:time>25042</gh:time><gh:direction>W</gh:direction><gh:azimuth>264.28</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.75455" lon="30.363285"><desc>turn rightTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>1127.8</gh:distance><gh:time>253757</gh:time><gh:direction>N</gh:direction><gh:azimuth>354.26</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.76448" lon="30.36003"><desc>turn right onto Лесі Українки вулиця, О-100808TAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>12.8</gh:distance><gh:time>2555</gh:time><gh:direction>NE</gh:direction><gh:azimuth>37.14</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.764571" lon="30.360139"><desc>turn left onto 40 р. Жовтня вулиця, О-100808TAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>13.7</gh:distance><gh:time>2748</gh:time><gh:direction>NW</gh:direction><gh:azimuth>302.66</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.764638" lon="30.359975"><desc>turn right onto 40 р. Жовтня вулиця, О-100808TAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>3053.4</gh:distance><gh:time>622125</gh:time><gh:direction>NW</gh:direction><gh:azimuth>297.08</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.778276" lon="30.322975"><desc>continue onto 40 р. Жовтня вулиця, О-100808TAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>74.6</gh:distance><gh:time>14911</gh:time><gh:direction>NW</gh:direction><gh:azimuth>321.12</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.778797" lon="30.32231"><desc>continue onto Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>710.0</gh:distance><gh:time>141993</gh:time><gh:direction>NW</gh:direction><gh:azimuth>324.23</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.783298" lon="30.315287"><desc>turn leftTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>99.1</gh:distance><gh:time>19820</gh:time><gh:direction>SW</gh:direction><gh:azimuth>208.4</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.782514" lon="30.314616"><desc>turn rightTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>187.8</gh:distance><gh:time>37554</gh:time><gh:direction>NW</gh:direction><gh:azimuth>298.4</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.783254" lon="30.312223"><desc>turn slight left onto Яблунева вулицяTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>298.5</gh:distance><gh:time>59705</gh:time><gh:direction>W</gh:direction><gh:azimuth>276.11</gh:azimuth><gh:sign>-1</gh:sign></extensions></rtept>
+<rtept lat="50.783562" lon="30.308029"><desc>keep right onto Революції вулиця, О-100806TAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>410.0</gh:distance><gh:time>81998</gh:time><gh:direction>NW</gh:direction><gh:azimuth>298.85</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="50.785853" lon="30.303574"><desc>turn sharp left onto Бударіна вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>120.9</gh:distance><gh:time>24176</gh:time><gh:direction>SW</gh:direction><gh:azimuth>207.66</gh:azimuth><gh:sign>-3</gh:sign></extensions></rtept>
+<rtept lat="50.78483" lon="30.303025"><desc>turn right onto Бударіна вулицяTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>420.0</gh:distance><gh:time>89070</gh:time><gh:direction>W</gh:direction><gh:azimuth>279.35</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.785529" lon="30.297155"><desc>turn leftTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>277.4</gh:distance><gh:time>55484</gh:time><gh:direction>S</gh:direction><gh:azimuth>198.08</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.783118" lon="30.296182"><desc>turn right onto Шевченка вулиця, Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>3032.9</gh:distance><gh:time>652041</gh:time><gh:direction>W</gh:direction><gh:azimuth>286.37</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.788147" lon="30.253861"><desc>continue onto Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>2246.8</gh:distance><gh:time>449361</gh:time><gh:direction>W</gh:direction><gh:azimuth>282.15</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.792513" lon="30.222655"><desc>keep right onto Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>5531.4</gh:distance><gh:time>1117770</gh:time><gh:direction>NW</gh:direction><gh:azimuth>309.64</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="50.807084" lon="30.149368"><desc>turn sharp leftTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>186.7</gh:distance><gh:time>37331</gh:time><gh:direction>S</gh:direction><gh:azimuth>179.47</gh:azimuth><gh:sign>-3</gh:sign></extensions></rtept>
+<rtept lat="50.805406" lon="30.149295"><desc>turn right onto Біла вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>1091.3</gh:distance><gh:time>223566</gh:time><gh:direction>W</gh:direction><gh:azimuth>278.03</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.807111" lon="30.134238"><desc>continue onto Біла вулицяTAGS{"highway":"street","surface":"paved"}</desc><extensions><gh:distance>551.3</gh:distance><gh:time>124037</gh:time><gh:direction>NW</gh:direction><gh:azimuth>314.43</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.810996" lon="30.131021"><desc>turn left onto Київська вулиця, Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>2158.8</gh:distance><gh:time>431763</gh:time><gh:direction>W</gh:direction><gh:azimuth>282.13</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.819934" lon="30.1048"><desc>turn rightTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>312.6</gh:distance><gh:time>80376</gh:time><gh:direction>N</gh:direction><gh:azimuth>14.36</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.821874" lon="30.102431"><desc>turn leftTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>238.6</gh:distance><gh:time>78423</gh:time><gh:direction>W</gh:direction><gh:azimuth>249.48</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.821723" lon="30.099169"><desc>turn right onto Київська вулиця, Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>1449.5</gh:distance><gh:time>299053</gh:time><gh:direction>NW</gh:direction><gh:azimuth>332.16</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.829271" lon="30.082758"><desc>turn right onto Поліська вулицяTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>511.6</gh:distance><gh:time>102316</gh:time><gh:direction>N</gh:direction><gh:azimuth>1.36</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.833801" lon="30.081685"><desc>turn slight right onto Поліська вулиця, Т-10-19TAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>1745.3</gh:distance><gh:time>349061</gh:time><gh:direction>N</gh:direction><gh:azimuth>10.53</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="50.849087" lon="30.076496"><desc>turn left onto Шевченка вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>124.4</gh:distance><gh:time>24882</gh:time><gh:direction>W</gh:direction><gh:azimuth>257.46</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.848844" lon="30.074766"><desc>turn right onto Набережна вулицяTAGS{"highway":"street","surface":"asphalt"}</desc><extensions><gh:distance>1674.5</gh:distance><gh:time>338748</gh:time><gh:direction>N</gh:direction><gh:azimuth>351.81</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.858002" lon="30.05959"><desc>keep leftTAGS{"highway":"path","surface":"other"}</desc><extensions><gh:distance>903.2</gh:distance><gh:time>297990</gh:time><gh:direction>W</gh:direction><gh:azimuth>269.26</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="50.859305" lon="30.046936"><desc>turn slight right onto Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>4293.2</gh:distance><gh:time>873364</gh:time><gh:direction>NW</gh:direction><gh:azimuth>306.02</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="50.878738" lon="29.996009"><desc>continue onto Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>909.9</gh:distance><gh:time>181967</gh:time><gh:direction>NW</gh:direction><gh:azimuth>325.78</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.885482" lon="29.988669"><desc>turn leftTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>427.8</gh:distance><gh:time>97294</gh:time><gh:direction>SW</gh:direction><gh:azimuth>227.48</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="50.883623" lon="29.983598"><desc>turn slight right onto Зарічна вулицяTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>186.9</gh:distance><gh:time>37388</gh:time><gh:direction>NW</gh:direction><gh:azimuth>310.1</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="50.884706" lon="29.98156"><desc>turn slight right onto Зарічна вулицяTAGS{"highway":"street","surface":"other"}</desc><extensions><gh:distance>890.4</gh:distance><gh:time>199778</gh:time><gh:direction>N</gh:direction><gh:azimuth>350.9</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="50.892091" lon="29.976843"><desc>turn slight left onto Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>342.4</gh:distance><gh:time>73045</gh:time><gh:direction>NW</gh:direction><gh:azimuth>293.6</gh:azimuth><gh:sign>-1</gh:sign></extensions></rtept>
+<rtept lat="50.893324" lon="29.97237"><desc>continue onto Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>4399.8</gh:distance><gh:time>905463</gh:time><gh:direction>NW</gh:direction><gh:azimuth>293.57</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.909255" lon="29.914952"><desc>continue onto Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>1171.3</gh:distance><gh:time>246274</gh:time><gh:direction>NW</gh:direction><gh:azimuth>306.31</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="50.917339" lon="29.904328"><desc>keep leftTAGS{"highway":"motorway","surface":"asphalt"}</desc><extensions><gh:distance>370.6</gh:distance><gh:time>74116</gh:time><gh:direction>NW</gh:direction><gh:azimuth>306.57</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="50.919755" lon="29.900997"><desc>keep right onto Поліський Шлях вулиця, Р-02TAGS{"highway":"primary","surface":"asphalt"}</desc><extensions><gh:distance>240.7</gh:distance><gh:time>48141</gh:time><gh:direction>NW</gh:direction><gh:azimuth>328.17</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="50.921435" lon="29.89884"><desc>At roundabout, take exit 1 onto Київська вулиця5</desc><extensions><gh:distance>1432.2</gh:distance><gh:time>350541</gh:time><gh:direction>NW</gh:direction><gh:azimuth>318.55</gh:azimuth><gh:exit_number>1</gh:exit_number><gh:sign>6</gh:sign></extensions></rtept>
+<rtept lat="50.932906" lon="29.903441"><desc>turn right onto Проскури вулиця, О-101105TAGS{"highway":"road","surface":"asphalt"}</desc><extensions><gh:distance>567.3</gh:distance><gh:time>113466</gh:time><gh:direction>E</gh:direction><gh:azimuth>84.61</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="50.936269" lon="29.907741"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:sign>4</gh:sign></extensions></rtept>
+</rte>
+<trk><name>GraphHopper Track</name><trkseg>
+<trkpt lat="50.521089" lon="30.486226"><time>2023-04-12T16:27:46Z</time></trkpt>
+<trkpt lat="50.521775" lon="30.486239"><time>2023-04-12T16:28:01Z</time></trkpt>
+<trkpt lat="50.521786" lon="30.484439"><time>2023-04-12T16:28:26Z</time></trkpt>
+<trkpt lat="50.523813" lon="30.484493"><time>2023-04-12T16:29:11Z</time></trkpt>
+<trkpt lat="50.524996" lon="30.484254"><time>2023-04-12T16:29:38Z</time></trkpt>
+<trkpt lat="50.525734" lon="30.484071"><time>2023-04-12T16:29:55Z</time></trkpt>
+<trkpt lat="50.526373" lon="30.484106"><time>2023-04-12T16:30:09Z</time></trkpt>
+<trkpt lat="50.527553" lon="30.484094"><time>2023-04-12T16:30:35Z</time></trkpt>
+<trkpt lat="50.529841" lon="30.484147"><time>2023-04-12T16:31:26Z</time></trkpt>
+<trkpt lat="50.531985" lon="30.484341"><time>2023-04-12T16:32:14Z</time></trkpt>
+<trkpt lat="50.53293" lon="30.484448"><time>2023-04-12T16:32:35Z</time></trkpt>
+<trkpt lat="50.536151" lon="30.484883"><time>2023-04-12T16:33:47Z</time></trkpt>
+<trkpt lat="50.539473" lon="30.485048"><time>2023-04-12T16:35:01Z</time></trkpt>
+<trkpt lat="50.540746" lon="30.485149"><time>2023-04-12T16:35:29Z</time></trkpt>
+<trkpt lat="50.540943" lon="30.485287"><time>2023-04-12T16:35:34Z</time></trkpt>
+<trkpt lat="50.541005" lon="30.485409"><time>2023-04-12T16:35:37Z</time></trkpt>
+<trkpt lat="50.541066" lon="30.485663"><time>2023-04-12T16:35:41Z</time></trkpt>
+<trkpt lat="50.541187" lon="30.485344"><time>2023-04-12T16:35:47Z</time></trkpt>
+<trkpt lat="50.541354" lon="30.485157"><time>2023-04-12T16:35:52Z</time></trkpt>
+<trkpt lat="50.541727" lon="30.485204"><time>2023-04-12T16:36:02Z</time></trkpt>
+<trkpt lat="50.543048" lon="30.485223"><time>2023-04-12T16:36:35Z</time></trkpt>
+<trkpt lat="50.543721" lon="30.485198"><time>2023-04-12T16:36:52Z</time></trkpt>
+<trkpt lat="50.543993" lon="30.485411"><time>2023-04-12T16:37:00Z</time></trkpt>
+<trkpt lat="50.544074" lon="30.485453"><time>2023-04-12T16:37:03Z</time></trkpt>
+<trkpt lat="50.544196" lon="30.485438"><time>2023-04-12T16:37:06Z</time></trkpt>
+<trkpt lat="50.544251" lon="30.485273"><time>2023-04-12T16:37:10Z</time></trkpt>
+<trkpt lat="50.54439" lon="30.48528"><time>2023-04-12T16:37:14Z</time></trkpt>
+<trkpt lat="50.544639" lon="30.485236"><time>2023-04-12T16:37:21Z</time></trkpt>
+<trkpt lat="50.54489" lon="30.485254"><time>2023-04-12T16:37:28Z</time></trkpt>
+<trkpt lat="50.544957" lon="30.485042"><time>2023-04-12T16:37:32Z</time></trkpt>
+<trkpt lat="50.545066" lon="30.484908"><time>2023-04-12T16:37:36Z</time></trkpt>
+<trkpt lat="50.545128" lon="30.484888"><time>2023-04-12T16:37:38Z</time></trkpt>
+<trkpt lat="50.545759" lon="30.485208"><time>2023-04-12T16:37:52Z</time></trkpt>
+<trkpt lat="50.546077" lon="30.485206"><time>2023-04-12T16:37:59Z</time></trkpt>
+<trkpt lat="50.54791" lon="30.484821"><time>2023-04-12T16:38:41Z</time></trkpt>
+<trkpt lat="50.548366" lon="30.484776"><time>2023-04-12T16:38:51Z</time></trkpt>
+<trkpt lat="50.548501" lon="30.484799"><time>2023-04-12T16:38:54Z</time></trkpt>
+<trkpt lat="50.548539" lon="30.48493"><time>2023-04-12T16:38:56Z</time></trkpt>
+<trkpt lat="50.548548" lon="30.485082"><time>2023-04-12T16:38:58Z</time></trkpt>
+<trkpt lat="50.548577" lon="30.486108"><time>2023-04-12T16:39:12Z</time></trkpt>
+<trkpt lat="50.548644" lon="30.486336"><time>2023-04-12T16:39:16Z</time></trkpt>
+<trkpt lat="50.548703" lon="30.486465"><time>2023-04-12T16:39:18Z</time></trkpt>
+<trkpt lat="50.548811" lon="30.486509"><time>2023-04-12T16:39:21Z</time></trkpt>
+<trkpt lat="50.551369" lon="30.486555"><time>2023-04-12T16:40:18Z</time></trkpt>
+<trkpt lat="50.551376" lon="30.487933"><time>2023-04-12T16:40:37Z</time></trkpt>
+<trkpt lat="50.551586" lon="30.487966"><time>2023-04-12T16:40:42Z</time></trkpt>
+<trkpt lat="50.553367" lon="30.488024"><time>2023-04-12T16:41:21Z</time></trkpt>
+<trkpt lat="50.554616" lon="30.488022"><time>2023-04-12T16:41:49Z</time></trkpt>
+<trkpt lat="50.554647" lon="30.488006"><time>2023-04-12T16:41:50Z</time></trkpt>
+<trkpt lat="50.554675" lon="30.487945"><time>2023-04-12T16:41:51Z</time></trkpt>
+<trkpt lat="50.554715" lon="30.487799"><time>2023-04-12T16:41:53Z</time></trkpt>
+<trkpt lat="50.554748" lon="30.48778"><time>2023-04-12T16:41:54Z</time></trkpt>
+<trkpt lat="50.555027" lon="30.487763"><time>2023-04-12T16:42:00Z</time></trkpt>
+<trkpt lat="50.55558" lon="30.48745"><time>2023-04-12T16:42:13Z</time></trkpt>
+<trkpt lat="50.55569" lon="30.487432"><time>2023-04-12T16:42:16Z</time></trkpt>
+<trkpt lat="50.555764" lon="30.487445"><time>2023-04-12T16:42:17Z</time></trkpt>
+<trkpt lat="50.5559" lon="30.487523"><time>2023-04-12T16:42:21Z</time></trkpt>
+<trkpt lat="50.555911" lon="30.48759"><time>2023-04-12T16:42:22Z</time></trkpt>
+<trkpt lat="50.556457" lon="30.487821"><time>2023-04-12T16:42:34Z</time></trkpt>
+<trkpt lat="50.55688" lon="30.487965"><time>2023-04-12T16:42:44Z</time></trkpt>
+<trkpt lat="50.556932" lon="30.488016"><time>2023-04-12T16:42:45Z</time></trkpt>
+<trkpt lat="50.556989" lon="30.488216"><time>2023-04-12T16:42:48Z</time></trkpt>
+<trkpt lat="50.55721" lon="30.488332"><time>2023-04-12T16:42:54Z</time></trkpt>
+<trkpt lat="50.557368" lon="30.488506"><time>2023-04-12T16:42:58Z</time></trkpt>
+<trkpt lat="50.557641" lon="30.488736"><time>2023-04-12T16:43:05Z</time></trkpt>
+<trkpt lat="50.557978" lon="30.488926"><time>2023-04-12T16:43:13Z</time></trkpt>
+<trkpt lat="50.558306" lon="30.489165"><time>2023-04-12T16:43:21Z</time></trkpt>
+<trkpt lat="50.558843" lon="30.489497"><time>2023-04-12T16:43:34Z</time></trkpt>
+<trkpt lat="50.559442" lon="30.489902"><time>2023-04-12T16:43:48Z</time></trkpt>
+<trkpt lat="50.55991" lon="30.49025"><time>2023-04-12T16:44:00Z</time></trkpt>
+<trkpt lat="50.559709" lon="30.49067"><time>2023-04-12T16:44:07Z</time></trkpt>
+<trkpt lat="50.559647" lon="30.490895"><time>2023-04-12T16:44:12Z</time></trkpt>
+<trkpt lat="50.559791" lon="30.49075"><time>2023-04-12T16:44:18Z</time></trkpt>
+<trkpt lat="50.559902" lon="30.49052"><time>2023-04-12T16:44:24Z</time></trkpt>
+<trkpt lat="50.560185" lon="30.490373"><time>2023-04-12T16:44:34Z</time></trkpt>
+<trkpt lat="50.560471" lon="30.490113"><time>2023-04-12T16:44:45Z</time></trkpt>
+<trkpt lat="50.560808" lon="30.490043"><time>2023-04-12T16:44:56Z</time></trkpt>
+<trkpt lat="50.561153" lon="30.489885"><time>2023-04-12T16:45:08Z</time></trkpt>
+<trkpt lat="50.561398" lon="30.489694"><time>2023-04-12T16:45:17Z</time></trkpt>
+<trkpt lat="50.561684" lon="30.489624"><time>2023-04-12T16:45:27Z</time></trkpt>
+<trkpt lat="50.562391" lon="30.48905"><time>2023-04-12T16:45:54Z</time></trkpt>
+<trkpt lat="50.562517" lon="30.488576"><time>2023-04-12T16:46:01Z</time></trkpt>
+<trkpt lat="50.564671" lon="30.488724"><time>2023-04-12T16:46:49Z</time></trkpt>
+<trkpt lat="50.564888" lon="30.488761"><time>2023-04-12T16:46:54Z</time></trkpt>
+<trkpt lat="50.566915" lon="30.489415"><time>2023-04-12T16:47:40Z</time></trkpt>
+<trkpt lat="50.567004" lon="30.489433"><time>2023-04-12T16:47:42Z</time></trkpt>
+<trkpt lat="50.567084" lon="30.489419"><time>2023-04-12T16:47:43Z</time></trkpt>
+<trkpt lat="50.56714" lon="30.489334"><time>2023-04-12T16:47:45Z</time></trkpt>
+<trkpt lat="50.56716" lon="30.48924"><time>2023-04-12T16:47:47Z</time></trkpt>
+<trkpt lat="50.567164" lon="30.488507"><time>2023-04-12T16:47:57Z</time></trkpt>
+<trkpt lat="50.567382" lon="30.486655"><time>2023-04-12T16:48:24Z</time></trkpt>
+<trkpt lat="50.567622" lon="30.485111"><time>2023-04-12T16:48:46Z</time></trkpt>
+<trkpt lat="50.567718" lon="30.484953"><time>2023-04-12T16:48:49Z</time></trkpt>
+<trkpt lat="50.567681" lon="30.484043"><time>2023-04-12T16:49:02Z</time></trkpt>
+<trkpt lat="50.568204" lon="30.483906"><time>2023-04-12T16:49:14Z</time></trkpt>
+<trkpt lat="50.568425" lon="30.483719"><time>2023-04-12T16:49:20Z</time></trkpt>
+<trkpt lat="50.568489" lon="30.483692"><time>2023-04-12T16:49:21Z</time></trkpt>
+<trkpt lat="50.568581" lon="30.483709"><time>2023-04-12T16:49:23Z</time></trkpt>
+<trkpt lat="50.568878" lon="30.484199"><time>2023-04-12T16:49:33Z</time></trkpt>
+<trkpt lat="50.569241" lon="30.484969"><time>2023-04-12T16:49:46Z</time></trkpt>
+<trkpt lat="50.56928" lon="30.485002"><time>2023-04-12T16:49:47Z</time></trkpt>
+<trkpt lat="50.569798" lon="30.485222"><time>2023-04-12T16:49:59Z</time></trkpt>
+<trkpt lat="50.569935" lon="30.485034"><time>2023-04-12T16:50:04Z</time></trkpt>
+<trkpt lat="50.570416" lon="30.484597"><time>2023-04-12T16:50:18Z</time></trkpt>
+<trkpt lat="50.571009" lon="30.483712"><time>2023-04-12T16:50:39Z</time></trkpt>
+<trkpt lat="50.571444" lon="30.483008"><time>2023-04-12T16:50:55Z</time></trkpt>
+<trkpt lat="50.571508" lon="30.482731"><time>2023-04-12T16:51:00Z</time></trkpt>
+<trkpt lat="50.572272" lon="30.481749"><time>2023-04-12T16:51:26Z</time></trkpt>
+<trkpt lat="50.573115" lon="30.482343"><time>2023-04-12T16:51:49Z</time></trkpt>
+<trkpt lat="50.573208" lon="30.482027"><time>2023-04-12T16:51:54Z</time></trkpt>
+<trkpt lat="50.573696" lon="30.480588"><time>2023-04-12T16:52:18Z</time></trkpt>
+<trkpt lat="50.574452" lon="30.478643"><time>2023-04-12T16:52:52Z</time></trkpt>
+<trkpt lat="50.575608" lon="30.476879"><time>2023-04-12T16:53:29Z</time></trkpt>
+<trkpt lat="50.576539" lon="30.478305"><time>2023-04-12T16:53:58Z</time></trkpt>
+<trkpt lat="50.57803" lon="30.480243"><time>2023-04-12T16:54:41Z</time></trkpt>
+<trkpt lat="50.577985" lon="30.480053"><time>2023-04-12T16:54:44Z</time></trkpt>
+<trkpt lat="50.578001" lon="30.479887"><time>2023-04-12T16:54:46Z</time></trkpt>
+<trkpt lat="50.578791" lon="30.47828"><time>2023-04-12T16:55:15Z</time></trkpt>
+<trkpt lat="50.579078" lon="30.477636"><time>2023-04-12T16:55:26Z</time></trkpt>
+<trkpt lat="50.579391" lon="30.477132"><time>2023-04-12T16:55:36Z</time></trkpt>
+<trkpt lat="50.579852" lon="30.476332"><time>2023-04-12T16:55:52Z</time></trkpt>
+<trkpt lat="50.580062" lon="30.47601"><time>2023-04-12T16:55:58Z</time></trkpt>
+<trkpt lat="50.579669" lon="30.475398"><time>2023-04-12T16:56:10Z</time></trkpt>
+<trkpt lat="50.578896" lon="30.474403"><time>2023-04-12T16:56:33Z</time></trkpt>
+<trkpt lat="50.578924" lon="30.474311"><time>2023-04-12T16:56:35Z</time></trkpt>
+<trkpt lat="50.579105" lon="30.47392"><time>2023-04-12T16:56:46Z</time></trkpt>
+<trkpt lat="50.580313" lon="30.471935"><time>2023-04-12T16:57:51Z</time></trkpt>
+<trkpt lat="50.58088" lon="30.471498"><time>2023-04-12T16:58:14Z</time></trkpt>
+<trkpt lat="50.581273" lon="30.470932"><time>2023-04-12T16:58:32Z</time></trkpt>
+<trkpt lat="50.581818" lon="30.470597"><time>2023-04-12T16:58:52Z</time></trkpt>
+<trkpt lat="50.581909" lon="30.470836"><time>2023-04-12T16:58:58Z</time></trkpt>
+<trkpt lat="50.583148" lon="30.470093"><time>2023-04-12T16:59:50Z</time></trkpt>
+<trkpt lat="50.5835" lon="30.469941"><time>2023-04-12T17:00:04Z</time></trkpt>
+<trkpt lat="50.583949" lon="30.46959"><time>2023-04-12T17:00:24Z</time></trkpt>
+<trkpt lat="50.584079" lon="30.46934"><time>2023-04-12T17:00:32Z</time></trkpt>
+<trkpt lat="50.584854" lon="30.46756"><time>2023-04-12T17:01:26Z</time></trkpt>
+<trkpt lat="50.585209" lon="30.467179"><time>2023-04-12T17:01:43Z</time></trkpt>
+<trkpt lat="50.585476" lon="30.466667"><time>2023-04-12T17:01:59Z</time></trkpt>
+<trkpt lat="50.585551" lon="30.466601"><time>2023-04-12T17:02:03Z</time></trkpt>
+<trkpt lat="50.58576" lon="30.466807"><time>2023-04-12T17:02:27Z</time></trkpt>
+<trkpt lat="50.585789" lon="30.466933"><time>2023-04-12T17:02:30Z</time></trkpt>
+<trkpt lat="50.585872" lon="30.467151"><time>2023-04-12T17:02:35Z</time></trkpt>
+<trkpt lat="50.586699" lon="30.466353"><time>2023-04-12T17:03:08Z</time></trkpt>
+<trkpt lat="50.587049" lon="30.465934"><time>2023-04-12T17:03:22Z</time></trkpt>
+<trkpt lat="50.588436" lon="30.464178"><time>2023-04-12T17:04:22Z</time></trkpt>
+<trkpt lat="50.588725" lon="30.464657"><time>2023-04-12T17:04:36Z</time></trkpt>
+<trkpt lat="50.589012" lon="30.464285"><time>2023-04-12T17:04:48Z</time></trkpt>
+<trkpt lat="50.589229" lon="30.46417"><time>2023-04-12T17:04:56Z</time></trkpt>
+<trkpt lat="50.589553" lon="30.463674"><time>2023-04-12T17:05:07Z</time></trkpt>
+<trkpt lat="50.589994" lon="30.46292"><time>2023-04-12T17:05:23Z</time></trkpt>
+<trkpt lat="50.590765" lon="30.461865"><time>2023-04-12T17:05:47Z</time></trkpt>
+<trkpt lat="50.590948" lon="30.461641"><time>2023-04-12T17:05:53Z</time></trkpt>
+<trkpt lat="50.591058" lon="30.461578"><time>2023-04-12T17:05:56Z</time></trkpt>
+<trkpt lat="50.591185" lon="30.461571"><time>2023-04-12T17:05:59Z</time></trkpt>
+<trkpt lat="50.591087" lon="30.461321"><time>2023-04-12T17:06:03Z</time></trkpt>
+<trkpt lat="50.59093" lon="30.461018"><time>2023-04-12T17:06:08Z</time></trkpt>
+<trkpt lat="50.591267" lon="30.460682"><time>2023-04-12T17:06:18Z</time></trkpt>
+<trkpt lat="50.592066" lon="30.46008"><time>2023-04-12T17:06:40Z</time></trkpt>
+<trkpt lat="50.592962" lon="30.459529"><time>2023-04-12T17:07:04Z</time></trkpt>
+<trkpt lat="50.594364" lon="30.458623"><time>2023-04-12T17:07:42Z</time></trkpt>
+<trkpt lat="50.594213" lon="30.458019"><time>2023-04-12T17:07:52Z</time></trkpt>
+<trkpt lat="50.595115" lon="30.457525"><time>2023-04-12T17:08:16Z</time></trkpt>
+<trkpt lat="50.595431" lon="30.457399"><time>2023-04-12T17:08:24Z</time></trkpt>
+<trkpt lat="50.595753" lon="30.457322"><time>2023-04-12T17:08:32Z</time></trkpt>
+<trkpt lat="50.595971" lon="30.457386"><time>2023-04-12T17:08:38Z</time></trkpt>
+<trkpt lat="50.596067" lon="30.457027"><time>2023-04-12T17:08:43Z</time></trkpt>
+<trkpt lat="50.59756" lon="30.457968"><time>2023-04-12T17:09:37Z</time></trkpt>
+<trkpt lat="50.59774" lon="30.457998"><time>2023-04-12T17:09:43Z</time></trkpt>
+<trkpt lat="50.597966" lon="30.457866"><time>2023-04-12T17:09:51Z</time></trkpt>
+<trkpt lat="50.598533" lon="30.457374"><time>2023-04-12T17:10:13Z</time></trkpt>
+<trkpt lat="50.60053" lon="30.455588"><time>2023-04-12T17:11:21Z</time></trkpt>
+<trkpt lat="50.600682" lon="30.455528"><time>2023-04-12T17:11:25Z</time></trkpt>
+<trkpt lat="50.600973" lon="30.455537"><time>2023-04-12T17:11:34Z</time></trkpt>
+<trkpt lat="50.601801" lon="30.455856"><time>2023-04-12T17:11:59Z</time></trkpt>
+<trkpt lat="50.6019" lon="30.455948"><time>2023-04-12T17:12:02Z</time></trkpt>
+<trkpt lat="50.601997" lon="30.455793"><time>2023-04-12T17:12:06Z</time></trkpt>
+<trkpt lat="50.602516" lon="30.454756"><time>2023-04-12T17:12:24Z</time></trkpt>
+<trkpt lat="50.602919" lon="30.454538"><time>2023-04-12T17:12:34Z</time></trkpt>
+<trkpt lat="50.602648" lon="30.453606"><time>2023-04-12T17:12:48Z</time></trkpt>
+<trkpt lat="50.602633" lon="30.453443"><time>2023-04-12T17:12:50Z</time></trkpt>
+<trkpt lat="50.602645" lon="30.452956"><time>2023-04-12T17:12:57Z</time></trkpt>
+<trkpt lat="50.602665" lon="30.452838"><time>2023-04-12T17:12:59Z</time></trkpt>
+<trkpt lat="50.604196" lon="30.453401"><time>2023-04-12T17:13:34Z</time></trkpt>
+<trkpt lat="50.606597" lon="30.454328"><time>2023-04-12T17:14:29Z</time></trkpt>
+<trkpt lat="50.60668" lon="30.453208"><time>2023-04-12T17:14:45Z</time></trkpt>
+<trkpt lat="50.606729" lon="30.452799"><time>2023-04-12T17:14:51Z</time></trkpt>
+<trkpt lat="50.606804" lon="30.452603"><time>2023-04-12T17:14:54Z</time></trkpt>
+<trkpt lat="50.606891" lon="30.452451"><time>2023-04-12T17:14:57Z</time></trkpt>
+<trkpt lat="50.607951" lon="30.45107"><time>2023-04-12T17:15:28Z</time></trkpt>
+<trkpt lat="50.60882" lon="30.449781"><time>2023-04-12T17:15:54Z</time></trkpt>
+<trkpt lat="50.609047" lon="30.449481"><time>2023-04-12T17:16:01Z</time></trkpt>
+<trkpt lat="50.609751" lon="30.448734"><time>2023-04-12T17:16:20Z</time></trkpt>
+<trkpt lat="50.610826" lon="30.447516"><time>2023-04-12T17:16:49Z</time></trkpt>
+<trkpt lat="50.612143" lon="30.446244"><time>2023-04-12T17:17:23Z</time></trkpt>
+<trkpt lat="50.614571" lon="30.445053"><time>2023-04-12T17:18:20Z</time></trkpt>
+<trkpt lat="50.614779" lon="30.44471"><time>2023-04-12T17:18:27Z</time></trkpt>
+<trkpt lat="50.615159" lon="30.444317"><time>2023-04-12T17:18:37Z</time></trkpt>
+<trkpt lat="50.615731" lon="30.443609"><time>2023-04-12T17:18:53Z</time></trkpt>
+<trkpt lat="50.615897" lon="30.44348"><time>2023-04-12T17:18:57Z</time></trkpt>
+<trkpt lat="50.616107" lon="30.443389"><time>2023-04-12T17:19:02Z</time></trkpt>
+<trkpt lat="50.61632" lon="30.443353"><time>2023-04-12T17:19:07Z</time></trkpt>
+<trkpt lat="50.617159" lon="30.443349"><time>2023-04-12T17:19:25Z</time></trkpt>
+<trkpt lat="50.617839" lon="30.443387"><time>2023-04-12T17:19:40Z</time></trkpt>
+<trkpt lat="50.617878" lon="30.442434"><time>2023-04-12T17:19:54Z</time></trkpt>
+<trkpt lat="50.617883" lon="30.441689"><time>2023-04-12T17:20:04Z</time></trkpt>
+<trkpt lat="50.618055" lon="30.44158"><time>2023-04-12T17:20:09Z</time></trkpt>
+<trkpt lat="50.618801" lon="30.44081"><time>2023-04-12T17:20:28Z</time></trkpt>
+<trkpt lat="50.619142" lon="30.440406"><time>2023-04-12T17:20:38Z</time></trkpt>
+<trkpt lat="50.619391" lon="30.440717"><time>2023-04-12T17:20:46Z</time></trkpt>
+<trkpt lat="50.619679" lon="30.440895"><time>2023-04-12T17:20:53Z</time></trkpt>
+<trkpt lat="50.621164" lon="30.440866"><time>2023-04-12T17:21:29Z</time></trkpt>
+<trkpt lat="50.621168" lon="30.440467"><time>2023-04-12T17:21:35Z</time></trkpt>
+<trkpt lat="50.621252" lon="30.439945"><time>2023-04-12T17:21:42Z</time></trkpt>
+<trkpt lat="50.621531" lon="30.439513"><time>2023-04-12T17:21:51Z</time></trkpt>
+<trkpt lat="50.621627" lon="30.439644"><time>2023-04-12T17:21:54Z</time></trkpt>
+<trkpt lat="50.622289" lon="30.43966"><time>2023-04-12T17:22:08Z</time></trkpt>
+<trkpt lat="50.622913" lon="30.439565"><time>2023-04-12T17:22:22Z</time></trkpt>
+<trkpt lat="50.623536" lon="30.439515"><time>2023-04-12T17:22:36Z</time></trkpt>
+<trkpt lat="50.624012" lon="30.439399"><time>2023-04-12T17:22:47Z</time></trkpt>
+<trkpt lat="50.624748" lon="30.439104"><time>2023-04-12T17:23:04Z</time></trkpt>
+<trkpt lat="50.625701" lon="30.438645"><time>2023-04-12T17:23:26Z</time></trkpt>
+<trkpt lat="50.625487" lon="30.437808"><time>2023-04-12T17:23:39Z</time></trkpt>
+<trkpt lat="50.625416" lon="30.437416"><time>2023-04-12T17:23:44Z</time></trkpt>
+<trkpt lat="50.625426" lon="30.437078"><time>2023-04-12T17:23:49Z</time></trkpt>
+<trkpt lat="50.625473" lon="30.436686"><time>2023-04-12T17:23:55Z</time></trkpt>
+<trkpt lat="50.626183" lon="30.434208"><time>2023-04-12T17:24:33Z</time></trkpt>
+<trkpt lat="50.626488" lon="30.433197"><time>2023-04-12T17:24:49Z</time></trkpt>
+<trkpt lat="50.626516" lon="30.433044"><time>2023-04-12T17:24:51Z</time></trkpt>
+<trkpt lat="50.626541" lon="30.432966"><time>2023-04-12T17:24:53Z</time></trkpt>
+<trkpt lat="50.626597" lon="30.432893"><time>2023-04-12T17:24:54Z</time></trkpt>
+<trkpt lat="50.6271" lon="30.43315"><time>2023-04-12T17:25:06Z</time></trkpt>
+<trkpt lat="50.628111" lon="30.433876"><time>2023-04-12T17:25:31Z</time></trkpt>
+<trkpt lat="50.628703" lon="30.434445"><time>2023-04-12T17:25:46Z</time></trkpt>
+<trkpt lat="50.628991" lon="30.434802"><time>2023-04-12T17:25:54Z</time></trkpt>
+<trkpt lat="50.629154" lon="30.435057"><time>2023-04-12T17:25:59Z</time></trkpt>
+<trkpt lat="50.629415" lon="30.435526"><time>2023-04-12T17:26:08Z</time></trkpt>
+<trkpt lat="50.629614" lon="30.436063"><time>2023-04-12T17:26:17Z</time></trkpt>
+<trkpt lat="50.629789" lon="30.437169"><time>2023-04-12T17:26:33Z</time></trkpt>
+<trkpt lat="50.630532" lon="30.436184"><time>2023-04-12T17:26:55Z</time></trkpt>
+<trkpt lat="50.632954" lon="30.433122"><time>2023-04-12T17:28:04Z</time></trkpt>
+<trkpt lat="50.633295" lon="30.432585"><time>2023-04-12T17:28:14Z</time></trkpt>
+<trkpt lat="50.633712" lon="30.431977"><time>2023-04-12T17:28:27Z</time></trkpt>
+<trkpt lat="50.633778" lon="30.431936"><time>2023-04-12T17:28:28Z</time></trkpt>
+<trkpt lat="50.633845" lon="30.43196"><time>2023-04-12T17:28:30Z</time></trkpt>
+<trkpt lat="50.634249" lon="30.4325"><time>2023-04-12T17:28:42Z</time></trkpt>
+<trkpt lat="50.635934" lon="30.430085"><time>2023-04-12T17:29:32Z</time></trkpt>
+<trkpt lat="50.636722" lon="30.429075"><time>2023-04-12T17:29:55Z</time></trkpt>
+<trkpt lat="50.636788" lon="30.429117"><time>2023-04-12T17:29:57Z</time></trkpt>
+<trkpt lat="50.636904" lon="30.429249"><time>2023-04-12T17:30:00Z</time></trkpt>
+<trkpt lat="50.638376" lon="30.427508"><time>2023-04-12T17:31:14Z</time></trkpt>
+<trkpt lat="50.638572" lon="30.427236"><time>2023-04-12T17:31:24Z</time></trkpt>
+<trkpt lat="50.638687" lon="30.427122"><time>2023-04-12T17:31:29Z</time></trkpt>
+<trkpt lat="50.638148" lon="30.425803"><time>2023-04-12T17:31:52Z</time></trkpt>
+<trkpt lat="50.640303" lon="30.423293"><time>2023-04-12T17:32:51Z</time></trkpt>
+<trkpt lat="50.640709" lon="30.422884"><time>2023-04-12T17:33:02Z</time></trkpt>
+<trkpt lat="50.641013" lon="30.422536"><time>2023-04-12T17:33:10Z</time></trkpt>
+<trkpt lat="50.642327" lon="30.420648"><time>2023-04-12T17:34:01Z</time></trkpt>
+<trkpt lat="50.642378" lon="30.42044"><time>2023-04-12T17:34:05Z</time></trkpt>
+<trkpt lat="50.642488" lon="30.420313"><time>2023-04-12T17:34:09Z</time></trkpt>
+<trkpt lat="50.642617" lon="30.420291"><time>2023-04-12T17:34:13Z</time></trkpt>
+<trkpt lat="50.642939" lon="30.419853"><time>2023-04-12T17:34:22Z</time></trkpt>
+<trkpt lat="50.643721" lon="30.418403"><time>2023-04-12T17:34:49Z</time></trkpt>
+<trkpt lat="50.644551" lon="30.41695"><time>2023-04-12T17:35:17Z</time></trkpt>
+<trkpt lat="50.645278" lon="30.416074"><time>2023-04-12T17:35:37Z</time></trkpt>
+<trkpt lat="50.646507" lon="30.414656"><time>2023-04-12T17:36:11Z</time></trkpt>
+<trkpt lat="50.64732" lon="30.413683"><time>2023-04-12T17:36:33Z</time></trkpt>
+<trkpt lat="50.647515" lon="30.413406"><time>2023-04-12T17:36:39Z</time></trkpt>
+<trkpt lat="50.648651" lon="30.410714"><time>2023-04-12T17:37:25Z</time></trkpt>
+<trkpt lat="50.649315" lon="30.408964"><time>2023-04-12T17:37:54Z</time></trkpt>
+<trkpt lat="50.650291" lon="30.410118"><time>2023-04-12T17:38:21Z</time></trkpt>
+<trkpt lat="50.65084" lon="30.40947"><time>2023-04-12T17:38:36Z</time></trkpt>
+<trkpt lat="50.651135" lon="30.409217"><time>2023-04-12T17:38:43Z</time></trkpt>
+<trkpt lat="50.651309" lon="30.409114"><time>2023-04-12T17:38:48Z</time></trkpt>
+<trkpt lat="50.651581" lon="30.408996"><time>2023-04-12T17:38:54Z</time></trkpt>
+<trkpt lat="50.652942" lon="30.408552"><time>2023-04-12T17:39:25Z</time></trkpt>
+<trkpt lat="50.654271" lon="30.408041"><time>2023-04-12T17:39:55Z</time></trkpt>
+<trkpt lat="50.654834" lon="30.407804"><time>2023-04-12T17:40:08Z</time></trkpt>
+<trkpt lat="50.655135" lon="30.40762"><time>2023-04-12T17:40:15Z</time></trkpt>
+<trkpt lat="50.656123" lon="30.406673"><time>2023-04-12T17:40:41Z</time></trkpt>
+<trkpt lat="50.655657" lon="30.405163"><time>2023-04-12T17:41:05Z</time></trkpt>
+<trkpt lat="50.655613" lon="30.405079"><time>2023-04-12T17:41:06Z</time></trkpt>
+<trkpt lat="50.657834" lon="30.402667"><time>2023-04-12T17:42:06Z</time></trkpt>
+<trkpt lat="50.658585" lon="30.401888"><time>2023-04-12T17:42:26Z</time></trkpt>
+<trkpt lat="50.658789" lon="30.401806"><time>2023-04-12T17:42:31Z</time></trkpt>
+<trkpt lat="50.661139" lon="30.401707"><time>2023-04-12T17:43:23Z</time></trkpt>
+<trkpt lat="50.662636" lon="30.401015"><time>2023-04-12T17:43:58Z</time></trkpt>
+<trkpt lat="50.663592" lon="30.400464"><time>2023-04-12T17:44:21Z</time></trkpt>
+<trkpt lat="50.663929" lon="30.402359"><time>2023-04-12T17:44:48Z</time></trkpt>
+<trkpt lat="50.666346" lon="30.400714"><time>2023-04-12T17:45:47Z</time></trkpt>
+<trkpt lat="50.666706" lon="30.400502"><time>2023-04-12T17:45:55Z</time></trkpt>
+<trkpt lat="50.667154" lon="30.400285"><time>2023-04-12T17:46:06Z</time></trkpt>
+<trkpt lat="50.667487" lon="30.400171"><time>2023-04-12T17:46:13Z</time></trkpt>
+<trkpt lat="50.667482" lon="30.400084"><time>2023-04-12T17:46:15Z</time></trkpt>
+<trkpt lat="50.667501" lon="30.399902"><time>2023-04-12T17:46:18Z</time></trkpt>
+<trkpt lat="50.667536" lon="30.399811"><time>2023-04-12T17:46:20Z</time></trkpt>
+<trkpt lat="50.667538" lon="30.399602"><time>2023-04-12T17:46:24Z</time></trkpt>
+<trkpt lat="50.668572" lon="30.399085"><time>2023-04-12T17:46:55Z</time></trkpt>
+<trkpt lat="50.671697" lon="30.397521"><time>2023-04-12T17:48:29Z</time></trkpt>
+<trkpt lat="50.671811" lon="30.397498"><time>2023-04-12T17:48:32Z</time></trkpt>
+<trkpt lat="50.671415" lon="30.392636"><time>2023-04-12T17:49:41Z</time></trkpt>
+<trkpt lat="50.671388" lon="30.39152"><time>2023-04-12T17:49:57Z</time></trkpt>
+<trkpt lat="50.671283" lon="30.391043"><time>2023-04-12T17:50:04Z</time></trkpt>
+<trkpt lat="50.671092" lon="30.39047"><time>2023-04-12T17:50:13Z</time></trkpt>
+<trkpt lat="50.670863" lon="30.389466"><time>2023-04-12T17:50:28Z</time></trkpt>
+<trkpt lat="50.670821" lon="30.389227"><time>2023-04-12T17:50:32Z</time></trkpt>
+<trkpt lat="50.670748" lon="30.388141"><time>2023-04-12T17:50:47Z</time></trkpt>
+<trkpt lat="50.670748" lon="30.387025"><time>2023-04-12T17:51:03Z</time></trkpt>
+<trkpt lat="50.670859" lon="30.386258"><time>2023-04-12T17:51:14Z</time></trkpt>
+<trkpt lat="50.671" lon="30.385576"><time>2023-04-12T17:51:24Z</time></trkpt>
+<trkpt lat="50.672027" lon="30.386338"><time>2023-04-12T17:51:49Z</time></trkpt>
+<trkpt lat="50.672745" lon="30.386614"><time>2023-04-12T17:52:06Z</time></trkpt>
+<trkpt lat="50.673285" lon="30.386776"><time>2023-04-12T17:52:18Z</time></trkpt>
+<trkpt lat="50.673839" lon="30.386792"><time>2023-04-12T17:52:30Z</time></trkpt>
+<trkpt lat="50.674191" lon="30.386863"><time>2023-04-12T17:52:38Z</time></trkpt>
+<trkpt lat="50.674409" lon="30.386953"><time>2023-04-12T17:52:43Z</time></trkpt>
+<trkpt lat="50.674659" lon="30.38711"><time>2023-04-12T17:52:49Z</time></trkpt>
+<trkpt lat="50.675457" lon="30.387828"><time>2023-04-12T17:53:10Z</time></trkpt>
+<trkpt lat="50.676052" lon="30.38841"><time>2023-04-12T17:53:25Z</time></trkpt>
+<trkpt lat="50.678262" lon="30.389919"><time>2023-04-12T17:54:19Z</time></trkpt>
+<trkpt lat="50.678758" lon="30.389396"><time>2023-04-12T17:54:32Z</time></trkpt>
+<trkpt lat="50.679431" lon="30.389042"><time>2023-04-12T17:54:49Z</time></trkpt>
+<trkpt lat="50.680423" lon="30.388248"><time>2023-04-12T17:55:14Z</time></trkpt>
+<trkpt lat="50.682546" lon="30.386901"><time>2023-04-12T17:56:06Z</time></trkpt>
+<trkpt lat="50.683421" lon="30.386299"><time>2023-04-12T17:56:28Z</time></trkpt>
+<trkpt lat="50.68467" lon="30.385513"><time>2023-04-12T17:56:59Z</time></trkpt>
+<trkpt lat="50.684741" lon="30.385417"><time>2023-04-12T17:57:01Z</time></trkpt>
+<trkpt lat="50.685805" lon="30.384704"><time>2023-04-12T17:57:27Z</time></trkpt>
+<trkpt lat="50.685882" lon="30.384632"><time>2023-04-12T17:57:29Z</time></trkpt>
+<trkpt lat="50.686879" lon="30.384073"><time>2023-04-12T17:57:53Z</time></trkpt>
+<trkpt lat="50.686932" lon="30.384338"><time>2023-04-12T17:57:57Z</time></trkpt>
+<trkpt lat="50.68708" lon="30.384902"><time>2023-04-12T17:58:06Z</time></trkpt>
+<trkpt lat="50.689815" lon="30.3846"><time>2023-04-12T17:59:07Z</time></trkpt>
+<trkpt lat="50.689901" lon="30.386742"><time>2023-04-12T17:59:37Z</time></trkpt>
+<trkpt lat="50.689947" lon="30.386938"><time>2023-04-12T17:59:40Z</time></trkpt>
+<trkpt lat="50.690524" lon="30.386585"><time>2023-04-12T17:59:54Z</time></trkpt>
+<trkpt lat="50.69098" lon="30.386209"><time>2023-04-12T18:00:05Z</time></trkpt>
+<trkpt lat="50.69118" lon="30.386163"><time>2023-04-12T18:00:10Z</time></trkpt>
+<trkpt lat="50.691191" lon="30.385964"><time>2023-04-12T18:00:13Z</time></trkpt>
+<trkpt lat="50.691178" lon="30.385787"><time>2023-04-12T18:00:15Z</time></trkpt>
+<trkpt lat="50.691503" lon="30.385426"><time>2023-04-12T18:00:24Z</time></trkpt>
+<trkpt lat="50.693909" lon="30.383044"><time>2023-04-12T18:01:27Z</time></trkpt>
+<trkpt lat="50.69463" lon="30.382411"><time>2023-04-12T18:01:45Z</time></trkpt>
+<trkpt lat="50.695504" lon="30.382243"><time>2023-04-12T18:02:05Z</time></trkpt>
+<trkpt lat="50.695919" lon="30.382209"><time>2023-04-12T18:02:14Z</time></trkpt>
+<trkpt lat="50.696089" lon="30.382232"><time>2023-04-12T18:02:18Z</time></trkpt>
+<trkpt lat="50.696251" lon="30.382526"><time>2023-04-12T18:02:24Z</time></trkpt>
+<trkpt lat="50.696182" lon="30.382596"><time>2023-04-12T18:02:25Z</time></trkpt>
+<trkpt lat="50.696282" lon="30.383004"><time>2023-04-12T18:02:32Z</time></trkpt>
+<trkpt lat="50.696385" lon="30.383981"><time>2023-04-12T18:02:46Z</time></trkpt>
+<trkpt lat="50.696499" lon="30.385503"><time>2023-04-12T18:03:07Z</time></trkpt>
+<trkpt lat="50.696568" lon="30.385967"><time>2023-04-12T18:03:14Z</time></trkpt>
+<trkpt lat="50.696604" lon="30.386104"><time>2023-04-12T18:03:16Z</time></trkpt>
+<trkpt lat="50.696687" lon="30.386256"><time>2023-04-12T18:03:19Z</time></trkpt>
+<trkpt lat="50.696774" lon="30.386327"><time>2023-04-12T18:03:21Z</time></trkpt>
+<trkpt lat="50.696874" lon="30.38636"><time>2023-04-12T18:03:23Z</time></trkpt>
+<trkpt lat="50.696995" lon="30.386322"><time>2023-04-12T18:03:26Z</time></trkpt>
+<trkpt lat="50.697783" lon="30.385805"><time>2023-04-12T18:03:46Z</time></trkpt>
+<trkpt lat="50.698327" lon="30.385489"><time>2023-04-12T18:03:59Z</time></trkpt>
+<trkpt lat="50.701115" lon="30.384634"><time>2023-04-12T18:05:04Z</time></trkpt>
+<trkpt lat="50.705854" lon="30.3831"><time>2023-04-12T18:06:54Z</time></trkpt>
+<trkpt lat="50.717293" lon="30.379466"><time>2023-04-12T18:11:19Z</time></trkpt>
+<trkpt lat="50.717753" lon="30.379224"><time>2023-04-12T18:11:30Z</time></trkpt>
+<trkpt lat="50.718097" lon="30.379116"><time>2023-04-12T18:11:38Z</time></trkpt>
+<trkpt lat="50.718616" lon="30.379053"><time>2023-04-12T18:11:50Z</time></trkpt>
+<trkpt lat="50.720889" lon="30.378343"><time>2023-04-12T18:12:43Z</time></trkpt>
+<trkpt lat="50.72291" lon="30.37762"><time>2023-04-12T18:13:30Z</time></trkpt>
+<trkpt lat="50.723169" lon="30.377489"><time>2023-04-12T18:13:36Z</time></trkpt>
+<trkpt lat="50.723366" lon="30.377295"><time>2023-04-12T18:13:42Z</time></trkpt>
+<trkpt lat="50.724" lon="30.376511"><time>2023-04-12T18:14:00Z</time></trkpt>
+<trkpt lat="50.724724" lon="30.37571"><time>2023-04-12T18:14:20Z</time></trkpt>
+<trkpt lat="50.724974" lon="30.37552"><time>2023-04-12T18:14:27Z</time></trkpt>
+<trkpt lat="50.725291" lon="30.37541"><time>2023-04-12T18:14:34Z</time></trkpt>
+<trkpt lat="50.726013" lon="30.375209"><time>2023-04-12T18:14:51Z</time></trkpt>
+<trkpt lat="50.727068" lon="30.374961"><time>2023-04-12T18:15:15Z</time></trkpt>
+<trkpt lat="50.728443" lon="30.375008"><time>2023-04-12T18:15:46Z</time></trkpt>
+<trkpt lat="50.732404" lon="30.37449"><time>2023-04-12T18:17:17Z</time></trkpt>
+<trkpt lat="50.733453" lon="30.37416"><time>2023-04-12T18:17:41Z</time></trkpt>
+<trkpt lat="50.734688" lon="30.373703"><time>2023-04-12T18:18:10Z</time></trkpt>
+<trkpt lat="50.735811" lon="30.373319"><time>2023-04-12T18:18:36Z</time></trkpt>
+<trkpt lat="50.737024" lon="30.372856"><time>2023-04-12T18:19:05Z</time></trkpt>
+<trkpt lat="50.737121" lon="30.372841"><time>2023-04-12T18:19:07Z</time></trkpt>
+<trkpt lat="50.740299" lon="30.37166"><time>2023-04-12T18:20:21Z</time></trkpt>
+<trkpt lat="50.741209" lon="30.370223"><time>2023-04-12T18:20:50Z</time></trkpt>
+<trkpt lat="50.741346" lon="30.369803"><time>2023-04-12T18:20:57Z</time></trkpt>
+<trkpt lat="50.741361" lon="30.369638"><time>2023-04-12T18:21:00Z</time></trkpt>
+<trkpt lat="50.743528" lon="30.36893"><time>2023-04-12T18:21:49Z</time></trkpt>
+<trkpt lat="50.745574" lon="30.368193"><time>2023-04-12T18:22:36Z</time></trkpt>
+<trkpt lat="50.752144" lon="30.365931"><time>2023-04-12T18:25:05Z</time></trkpt>
+<trkpt lat="50.752717" lon="30.36577"><time>2023-04-12T18:25:18Z</time></trkpt>
+<trkpt lat="50.754662" lon="30.365056"><time>2023-04-12T18:26:03Z</time></trkpt>
+<trkpt lat="50.75455" lon="30.363285"><time>2023-04-12T18:26:28Z</time></trkpt>
+<trkpt lat="50.754802" lon="30.363245"><time>2023-04-12T18:26:34Z</time></trkpt>
+<trkpt lat="50.759064" lon="30.361856"><time>2023-04-12T18:28:23Z</time></trkpt>
+<trkpt lat="50.76448" lon="30.36003"><time>2023-04-12T18:30:41Z</time></trkpt>
+<trkpt lat="50.764571" lon="30.360139"><time>2023-04-12T18:30:44Z</time></trkpt>
+<trkpt lat="50.764638" lon="30.359975"><time>2023-04-12T18:30:47Z</time></trkpt>
+<trkpt lat="50.765754" lon="30.356524"><time>2023-04-12T18:31:42Z</time></trkpt>
+<trkpt lat="50.769286" lon="30.343872"><time>2023-04-12T18:35:00Z</time></trkpt>
+<trkpt lat="50.77139" lon="30.336655"><time>2023-04-12T18:36:54Z</time></trkpt>
+<trkpt lat="50.772038" lon="30.334742"><time>2023-04-12T18:37:25Z</time></trkpt>
+<trkpt lat="50.77421" lon="30.328526"><time>2023-04-12T18:39:07Z</time></trkpt>
+<trkpt lat="50.775175" lon="30.327169"><time>2023-04-12T18:39:36Z</time></trkpt>
+<trkpt lat="50.778276" lon="30.322975"><time>2023-04-12T18:41:09Z</time></trkpt>
+<trkpt lat="50.778797" lon="30.32231"><time>2023-04-12T18:41:24Z</time></trkpt>
+<trkpt lat="50.780972" lon="30.319832"><time>2023-04-12T18:42:23Z</time></trkpt>
+<trkpt lat="50.781203" lon="30.319511"><time>2023-04-12T18:42:30Z</time></trkpt>
+<trkpt lat="50.781501" lon="30.31901"><time>2023-04-12T18:42:40Z</time></trkpt>
+<trkpt lat="50.781846" lon="30.318268"><time>2023-04-12T18:42:53Z</time></trkpt>
+<trkpt lat="50.782115" lon="30.317742"><time>2023-04-12T18:43:02Z</time></trkpt>
+<trkpt lat="50.783298" lon="30.315287"><time>2023-04-12T18:43:46Z</time></trkpt>
+<trkpt lat="50.782514" lon="30.314616"><time>2023-04-12T18:44:05Z</time></trkpt>
+<trkpt lat="50.783077" lon="30.312969"><time>2023-04-12T18:44:32Z</time></trkpt>
+<trkpt lat="50.783254" lon="30.312223"><time>2023-04-12T18:44:43Z</time></trkpt>
+<trkpt lat="50.783273" lon="30.311945"><time>2023-04-12T18:44:47Z</time></trkpt>
+<trkpt lat="50.783333" lon="30.309464"><time>2023-04-12T18:45:22Z</time></trkpt>
+<trkpt lat="50.783352" lon="30.309223"><time>2023-04-12T18:45:25Z</time></trkpt>
+<trkpt lat="50.783464" lon="30.308471"><time>2023-04-12T18:45:36Z</time></trkpt>
+<trkpt lat="50.783562" lon="30.308029"><time>2023-04-12T18:45:43Z</time></trkpt>
+<trkpt lat="50.783713" lon="30.307596"><time>2023-04-12T18:45:50Z</time></trkpt>
+<trkpt lat="50.78433" lon="30.306096"><time>2023-04-12T18:46:15Z</time></trkpt>
+<trkpt lat="50.784976" lon="30.304697"><time>2023-04-12T18:46:39Z</time></trkpt>
+<trkpt lat="50.785368" lon="30.304013"><time>2023-04-12T18:46:52Z</time></trkpt>
+<trkpt lat="50.785536" lon="30.303791"><time>2023-04-12T18:46:57Z</time></trkpt>
+<trkpt lat="50.785853" lon="30.303574"><time>2023-04-12T18:47:05Z</time></trkpt>
+<trkpt lat="50.78557" lon="30.30334"><time>2023-04-12T18:47:12Z</time></trkpt>
+<trkpt lat="50.785336" lon="30.303219"><time>2023-04-12T18:47:17Z</time></trkpt>
+<trkpt lat="50.78483" lon="30.303025"><time>2023-04-12T18:47:29Z</time></trkpt>
+<trkpt lat="50.78497" lon="30.301677"><time>2023-04-12T18:47:49Z</time></trkpt>
+<trkpt lat="50.785529" lon="30.297155"><time>2023-04-12T18:48:58Z</time></trkpt>
+<trkpt lat="50.78422" lon="30.296479"><time>2023-04-12T18:49:29Z</time></trkpt>
+<trkpt lat="50.783118" lon="30.296182"><time>2023-04-12T18:49:53Z</time></trkpt>
+<trkpt lat="50.783384" lon="30.29475"><time>2023-04-12T18:50:16Z</time></trkpt>
+<trkpt lat="50.784081" lon="30.291183"><time>2023-04-12T18:51:12Z</time></trkpt>
+<trkpt lat="50.78426" lon="30.290188"><time>2023-04-12T18:51:28Z</time></trkpt>
+<trkpt lat="50.784325" lon="30.289572"><time>2023-04-12T18:51:38Z</time></trkpt>
+<trkpt lat="50.784418" lon="30.288451"><time>2023-04-12T18:51:55Z</time></trkpt>
+<trkpt lat="50.784824" lon="30.283275"><time>2023-04-12T18:53:13Z</time></trkpt>
+<trkpt lat="50.785245" lon="30.277255"><time>2023-04-12T18:54:45Z</time></trkpt>
+<trkpt lat="50.785882" lon="30.272888"><time>2023-04-12T18:55:53Z</time></trkpt>
+<trkpt lat="50.786689" lon="30.26516"><time>2023-04-12T18:57:51Z</time></trkpt>
+<trkpt lat="50.78734" lon="30.259945"><time>2023-04-12T18:59:12Z</time></trkpt>
+<trkpt lat="50.788147" lon="30.253861"><time>2023-04-12T19:00:45Z</time></trkpt>
+<trkpt lat="50.788621" lon="30.250379"><time>2023-04-12T19:01:36Z</time></trkpt>
+<trkpt lat="50.789243" lon="30.246419"><time>2023-04-12T19:02:33Z</time></trkpt>
+<trkpt lat="50.792513" lon="30.222655"><time>2023-04-12T19:08:15Z</time></trkpt>
+<trkpt lat="50.796689" lon="30.214679"><time>2023-04-12T19:10:42Z</time></trkpt>
+<trkpt lat="50.796992" lon="30.212609"><time>2023-04-12T19:11:12Z</time></trkpt>
+<trkpt lat="50.79883" lon="30.197833"><time>2023-04-12T19:14:46Z</time></trkpt>
+<trkpt lat="50.799135" lon="30.194008"><time>2023-04-12T19:15:41Z</time></trkpt>
+<trkpt lat="50.799409" lon="30.19182"><time>2023-04-12T19:16:12Z</time></trkpt>
+<trkpt lat="50.799867" lon="30.190159"><time>2023-04-12T19:16:38Z</time></trkpt>
+<trkpt lat="50.802351" lon="30.181755"><time>2023-04-12T19:18:50Z</time></trkpt>
+<trkpt lat="50.801985" lon="30.173795"><time>2023-04-12T19:20:43Z</time></trkpt>
+<trkpt lat="50.802813" lon="30.165411"><time>2023-04-12T19:22:44Z</time></trkpt>
+<trkpt lat="50.802855" lon="30.165099"><time>2023-04-12T19:22:48Z</time></trkpt>
+<trkpt lat="50.804575" lon="30.156468"><time>2023-04-12T19:24:57Z</time></trkpt>
+<trkpt lat="50.804907" lon="30.155149"><time>2023-04-12T19:25:17Z</time></trkpt>
+<trkpt lat="50.805403" lon="30.153775"><time>2023-04-12T19:25:39Z</time></trkpt>
+<trkpt lat="50.80662" lon="30.150664"><time>2023-04-12T19:26:31Z</time></trkpt>
+<trkpt lat="50.807084" lon="30.149368"><time>2023-04-12T19:26:53Z</time></trkpt>
+<trkpt lat="50.806453" lon="30.149377"><time>2023-04-12T19:27:07Z</time></trkpt>
+<trkpt lat="50.805406" lon="30.149295"><time>2023-04-12T19:27:30Z</time></trkpt>
+<trkpt lat="50.80583" lon="30.144547"><time>2023-04-12T19:28:39Z</time></trkpt>
+<trkpt lat="50.805884" lon="30.143208"><time>2023-04-12T19:28:58Z</time></trkpt>
+<trkpt lat="50.806023" lon="30.142407"><time>2023-04-12T19:29:10Z</time></trkpt>
+<trkpt lat="50.806034" lon="30.140077"><time>2023-04-12T19:29:44Z</time></trkpt>
+<trkpt lat="50.80655" lon="30.137953"><time>2023-04-12T19:30:17Z</time></trkpt>
+<trkpt lat="50.806777" lon="30.13584"><time>2023-04-12T19:30:47Z</time></trkpt>
+<trkpt lat="50.806787" lon="30.134963"><time>2023-04-12T19:31:00Z</time></trkpt>
+<trkpt lat="50.806816" lon="30.134661"><time>2023-04-12T19:31:04Z</time></trkpt>
+<trkpt lat="50.807111" lon="30.134238"><time>2023-04-12T19:31:14Z</time></trkpt>
+<trkpt lat="50.807224" lon="30.134055"><time>2023-04-12T19:31:18Z</time></trkpt>
+<trkpt lat="50.807379" lon="30.133749"><time>2023-04-12T19:31:24Z</time></trkpt>
+<trkpt lat="50.807937" lon="30.133124"><time>2023-04-12T19:31:41Z</time></trkpt>
+<trkpt lat="50.80825" lon="30.132971"><time>2023-04-12T19:31:49Z</time></trkpt>
+<trkpt lat="50.808528" lon="30.132692"><time>2023-04-12T19:31:57Z</time></trkpt>
+<trkpt lat="50.808728" lon="30.132301"><time>2023-04-12T19:32:05Z</time></trkpt>
+<trkpt lat="50.809565" lon="30.130525"><time>2023-04-12T19:32:40Z</time></trkpt>
+<trkpt lat="50.809684" lon="30.13045"><time>2023-04-12T19:32:44Z</time></trkpt>
+<trkpt lat="50.810996" lon="30.131021"><time>2023-04-12T19:33:18Z</time></trkpt>
+<trkpt lat="50.812133" lon="30.122651"><time>2023-04-12T19:35:18Z</time></trkpt>
+<trkpt lat="50.812282" lon="30.122079"><time>2023-04-12T19:35:27Z</time></trkpt>
+<trkpt lat="50.81236" lon="30.121846"><time>2023-04-12T19:35:30Z</time></trkpt>
+<trkpt lat="50.812451" lon="30.121585"><time>2023-04-12T19:35:34Z</time></trkpt>
+<trkpt lat="50.812635" lon="30.121194"><time>2023-04-12T19:35:41Z</time></trkpt>
+<trkpt lat="50.817905" lon="30.112483"><time>2023-04-12T19:38:31Z</time></trkpt>
+<trkpt lat="50.818303" lon="30.11172"><time>2023-04-12T19:38:45Z</time></trkpt>
+<trkpt lat="50.818713" lon="30.110734"><time>2023-04-12T19:39:01Z</time></trkpt>
+<trkpt lat="50.818939" lon="30.11006"><time>2023-04-12T19:39:12Z</time></trkpt>
+<trkpt lat="50.819222" lon="30.109061"><time>2023-04-12T19:39:27Z</time></trkpt>
+<trkpt lat="50.819418" lon="30.108021"><time>2023-04-12T19:39:43Z</time></trkpt>
+<trkpt lat="50.819934" lon="30.1048"><time>2023-04-12T19:40:29Z</time></trkpt>
+<trkpt lat="50.820243" lon="30.104925"><time>2023-04-12T19:40:38Z</time></trkpt>
+<trkpt lat="50.820294" lon="30.104925"><time>2023-04-12T19:40:40Z</time></trkpt>
+<trkpt lat="50.820328" lon="30.104853"><time>2023-04-12T19:40:42Z</time></trkpt>
+<trkpt lat="50.82068" lon="30.103287"><time>2023-04-12T19:41:12Z</time></trkpt>
+<trkpt lat="50.820917" lon="30.102947"><time>2023-04-12T19:41:21Z</time></trkpt>
+<trkpt lat="50.821123" lon="30.102813"><time>2023-04-12T19:41:27Z</time></trkpt>
+<trkpt lat="50.821874" lon="30.102431"><time>2023-04-12T19:41:50Z</time></trkpt>
+<trkpt lat="50.821624" lon="30.101374"><time>2023-04-12T19:42:16Z</time></trkpt>
+<trkpt lat="50.821694" lon="30.100591"><time>2023-04-12T19:42:34Z</time></trkpt>
+<trkpt lat="50.821834" lon="30.099728"><time>2023-04-12T19:42:55Z</time></trkpt>
+<trkpt lat="50.821723" lon="30.099169"><time>2023-04-12T19:43:08Z</time></trkpt>
+<trkpt lat="50.822408" lon="30.098597"><time>2023-04-12T19:43:26Z</time></trkpt>
+<trkpt lat="50.822707" lon="30.09832"><time>2023-04-12T19:43:34Z</time></trkpt>
+<trkpt lat="50.822916" lon="30.098087"><time>2023-04-12T19:43:40Z</time></trkpt>
+<trkpt lat="50.823265" lon="30.097556"><time>2023-04-12T19:43:51Z</time></trkpt>
+<trkpt lat="50.823844" lon="30.096598"><time>2023-04-12T19:44:10Z</time></trkpt>
+<trkpt lat="50.824247" lon="30.095911"><time>2023-04-12T19:44:24Z</time></trkpt>
+<trkpt lat="50.824539" lon="30.09533"><time>2023-04-12T19:44:34Z</time></trkpt>
+<trkpt lat="50.826133" lon="30.091319"><time>2023-04-12T19:45:43Z</time></trkpt>
+<trkpt lat="50.826281" lon="30.090906"><time>2023-04-12T19:45:50Z</time></trkpt>
+<trkpt lat="50.826404" lon="30.090448"><time>2023-04-12T19:45:57Z</time></trkpt>
+<trkpt lat="50.826669" lon="30.089141"><time>2023-04-12T19:46:17Z</time></trkpt>
+<trkpt lat="50.826772" lon="30.088793"><time>2023-04-12T19:46:23Z</time></trkpt>
+<trkpt lat="50.829271" lon="30.082758"><time>2023-04-12T19:48:07Z</time></trkpt>
+<trkpt lat="50.830272" lon="30.082796"><time>2023-04-12T19:48:29Z</time></trkpt>
+<trkpt lat="50.83264" lon="30.082127"><time>2023-04-12T19:49:23Z</time></trkpt>
+<trkpt lat="50.833801" lon="30.081685"><time>2023-04-12T19:49:49Z</time></trkpt>
+<trkpt lat="50.834209" lon="30.081806"><time>2023-04-12T19:49:59Z</time></trkpt>
+<trkpt lat="50.834785" lon="30.081875"><time>2023-04-12T19:50:12Z</time></trkpt>
+<trkpt lat="50.835053" lon="30.081827"><time>2023-04-12T19:50:18Z</time></trkpt>
+<trkpt lat="50.835652" lon="30.081644"><time>2023-04-12T19:50:31Z</time></trkpt>
+<trkpt lat="50.838444" lon="30.080604"><time>2023-04-12T19:51:35Z</time></trkpt>
+<trkpt lat="50.848264" lon="30.076859"><time>2023-04-12T19:55:20Z</time></trkpt>
+<trkpt lat="50.849087" lon="30.076496"><time>2023-04-12T19:55:39Z</time></trkpt>
+<trkpt lat="50.848844" lon="30.074766"><time>2023-04-12T19:56:03Z</time></trkpt>
+<trkpt lat="50.849497" lon="30.074617"><time>2023-04-12T19:56:18Z</time></trkpt>
+<trkpt lat="50.849681" lon="30.074528"><time>2023-04-12T19:56:23Z</time></trkpt>
+<trkpt lat="50.849839" lon="30.074397"><time>2023-04-12T19:56:27Z</time></trkpt>
+<trkpt lat="50.850989" lon="30.073211"><time>2023-04-12T19:56:57Z</time></trkpt>
+<trkpt lat="50.852438" lon="30.072576"><time>2023-04-12T19:57:31Z</time></trkpt>
+<trkpt lat="50.854719" lon="30.071653"><time>2023-04-12T19:58:24Z</time></trkpt>
+<trkpt lat="50.854983" lon="30.071436"><time>2023-04-12T19:58:31Z</time></trkpt>
+<trkpt lat="50.855114" lon="30.071283"><time>2023-04-12T19:58:35Z</time></trkpt>
+<trkpt lat="50.855217" lon="30.071039"><time>2023-04-12T19:58:39Z</time></trkpt>
+<trkpt lat="50.855295" lon="30.070746"><time>2023-04-12T19:58:43Z</time></trkpt>
+<trkpt lat="50.855301" lon="30.070422"><time>2023-04-12T19:58:48Z</time></trkpt>
+<trkpt lat="50.854983" lon="30.068427"><time>2023-04-12T19:59:17Z</time></trkpt>
+<trkpt lat="50.854895" lon="30.068011"><time>2023-04-12T19:59:23Z</time></trkpt>
+<trkpt lat="50.854915" lon="30.067831"><time>2023-04-12T19:59:26Z</time></trkpt>
+<trkpt lat="50.854966" lon="30.067633"><time>2023-04-12T19:59:29Z</time></trkpt>
+<trkpt lat="50.855511" lon="30.066109"><time>2023-04-12T19:59:54Z</time></trkpt>
+<trkpt lat="50.857713" lon="30.060525"><time>2023-04-12T20:01:27Z</time></trkpt>
+<trkpt lat="50.858002" lon="30.05959"><time>2023-04-12T20:01:42Z</time></trkpt>
+<trkpt lat="50.857983" lon="30.057237"><time>2023-04-12T20:02:37Z</time></trkpt>
+<trkpt lat="50.858827" lon="30.050284"><time>2023-04-12T20:05:21Z</time></trkpt>
+<trkpt lat="50.859305" lon="30.046936"><time>2023-04-12T20:06:40Z</time></trkpt>
+<trkpt lat="50.860013" lon="30.045393"><time>2023-04-12T20:07:07Z</time></trkpt>
+<trkpt lat="50.863058" lon="30.03852"><time>2023-04-12T20:09:07Z</time></trkpt>
+<trkpt lat="50.869336" lon="30.02475"><time>2023-04-12T20:13:10Z</time></trkpt>
+<trkpt lat="50.86985" lon="30.02296"><time>2023-04-12T20:13:38Z</time></trkpt>
+<trkpt lat="50.871889" lon="30.010834"><time>2023-04-12T20:16:37Z</time></trkpt>
+<trkpt lat="50.872799" lon="30.005125"><time>2023-04-12T20:18:01Z</time></trkpt>
+<trkpt lat="50.87324" lon="30.003323"><time>2023-04-12T20:18:29Z</time></trkpt>
+<trkpt lat="50.873727" lon="30.001965"><time>2023-04-12T20:18:51Z</time></trkpt>
+<trkpt lat="50.874067" lon="30.001203"><time>2023-04-12T20:19:04Z</time></trkpt>
+<trkpt lat="50.874658" lon="30.000368"><time>2023-04-12T20:19:22Z</time></trkpt>
+<trkpt lat="50.878738" lon="29.996009"><time>2023-04-12T20:21:14Z</time></trkpt>
+<trkpt lat="50.884244" lon="29.990073"><time>2023-04-12T20:23:42Z</time></trkpt>
+<trkpt lat="50.885482" lon="29.988669"><time>2023-04-12T20:24:15Z</time></trkpt>
+<trkpt lat="50.884106" lon="29.986291"><time>2023-04-12T20:25:07Z</time></trkpt>
+<trkpt lat="50.883774" lon="29.985462"><time>2023-04-12T20:25:23Z</time></trkpt>
+<trkpt lat="50.88361" lon="29.984049"><time>2023-04-12T20:25:46Z</time></trkpt>
+<trkpt lat="50.883623" lon="29.983598"><time>2023-04-12T20:25:53Z</time></trkpt>
+<trkpt lat="50.884706" lon="29.98156"><time>2023-04-12T20:26:30Z</time></trkpt>
+<trkpt lat="50.886118" lon="29.981201"><time>2023-04-12T20:27:06Z</time></trkpt>
+<trkpt lat="50.886809" lon="29.980794"><time>2023-04-12T20:27:24Z</time></trkpt>
+<trkpt lat="50.892091" lon="29.976843"><time>2023-04-12T20:29:50Z</time></trkpt>
+<trkpt lat="50.893324" lon="29.97237"><time>2023-04-12T20:31:03Z</time></trkpt>
+<trkpt lat="50.897362" lon="29.957692"><time>2023-04-12T20:34:54Z</time></trkpt>
+<trkpt lat="50.897818" lon="29.956078"><time>2023-04-12T20:35:20Z</time></trkpt>
+<trkpt lat="50.900523" lon="29.94614"><time>2023-04-12T20:37:56Z</time></trkpt>
+<trkpt lat="50.903346" lon="29.935972"><time>2023-04-12T20:40:36Z</time></trkpt>
+<trkpt lat="50.90724" lon="29.92181"><time>2023-04-12T20:44:19Z</time></trkpt>
+<trkpt lat="50.90894" lon="29.915835"><time>2023-04-12T20:45:54Z</time></trkpt>
+<trkpt lat="50.909032" lon="29.915547"><time>2023-04-12T20:45:58Z</time></trkpt>
+<trkpt lat="50.909255" lon="29.914952"><time>2023-04-12T20:46:08Z</time></trkpt>
+<trkpt lat="50.909619" lon="29.914167"><time>2023-04-12T20:46:23Z</time></trkpt>
+<trkpt lat="50.909978" lon="29.913556"><time>2023-04-12T20:46:35Z</time></trkpt>
+<trkpt lat="50.91045" lon="29.912898"><time>2023-04-12T20:46:50Z</time></trkpt>
+<trkpt lat="50.912008" lon="29.911073"><time>2023-04-12T20:47:35Z</time></trkpt>
+<trkpt lat="50.913964" lon="29.908837"><time>2023-04-12T20:48:31Z</time></trkpt>
+<trkpt lat="50.914848" lon="29.907747"><time>2023-04-12T20:48:58Z</time></trkpt>
+<trkpt lat="50.917339" lon="29.904328"><time>2023-04-12T20:50:15Z</time></trkpt>
+<trkpt lat="50.918283" lon="29.902311"><time>2023-04-12T20:50:50Z</time></trkpt>
+<trkpt lat="50.919153" lon="29.901145"><time>2023-04-12T20:51:15Z</time></trkpt>
+<trkpt lat="50.919755" lon="29.900997"><time>2023-04-12T20:51:29Z</time></trkpt>
+<trkpt lat="50.920002" lon="29.900754"><time>2023-04-12T20:51:35Z</time></trkpt>
+<trkpt lat="50.920602" lon="29.900007"><time>2023-04-12T20:51:52Z</time></trkpt>
+<trkpt lat="50.921435" lon="29.89884"><time>2023-04-12T20:52:17Z</time></trkpt>
+<trkpt lat="50.922359" lon="29.897545"><time>2023-04-12T20:52:51Z</time></trkpt>
+<trkpt lat="50.922624" lon="29.897286"><time>2023-04-12T20:52:59Z</time></trkpt>
+<trkpt lat="50.922935" lon="29.897051"><time>2023-04-12T20:53:08Z</time></trkpt>
+<trkpt lat="50.923298" lon="29.896865"><time>2023-04-12T20:53:19Z</time></trkpt>
+<trkpt lat="50.923656" lon="29.896773"><time>2023-04-12T20:53:29Z</time></trkpt>
+<trkpt lat="50.924124" lon="29.896762"><time>2023-04-12T20:53:42Z</time></trkpt>
+<trkpt lat="50.924559" lon="29.896865"><time>2023-04-12T20:53:54Z</time></trkpt>
+<trkpt lat="50.924744" lon="29.896944"><time>2023-04-12T20:53:59Z</time></trkpt>
+<trkpt lat="50.925045" lon="29.897129"><time>2023-04-12T20:54:08Z</time></trkpt>
+<trkpt lat="50.928409" lon="29.899846"><time>2023-04-12T20:55:50Z</time></trkpt>
+<trkpt lat="50.932612" lon="29.903283"><time>2023-04-12T20:57:59Z</time></trkpt>
+<trkpt lat="50.932791" lon="29.903401"><time>2023-04-12T20:58:04Z</time></trkpt>
+<trkpt lat="50.932906" lon="29.903441"><time>2023-04-12T20:58:08Z</time></trkpt>
+<trkpt lat="50.932917" lon="29.903636"><time>2023-04-12T20:58:10Z</time></trkpt>
+<trkpt lat="50.932707" lon="29.905154"><time>2023-04-12T20:58:32Z</time></trkpt>
+<trkpt lat="50.932741" lon="29.905375"><time>2023-04-12T20:58:35Z</time></trkpt>
+<trkpt lat="50.933274" lon="29.905911"><time>2023-04-12T20:58:49Z</time></trkpt>
+<trkpt lat="50.933814" lon="29.906404"><time>2023-04-12T20:59:03Z</time></trkpt>
+<trkpt lat="50.934407" lon="29.906781"><time>2023-04-12T20:59:17Z</time></trkpt>
+<trkpt lat="50.934839" lon="29.907019"><time>2023-04-12T20:59:28Z</time></trkpt>
+<trkpt lat="50.936269" lon="29.907741"><time>2023-04-12T21:00:01Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
